@@ -371,9 +371,8 @@ service Card
 }
 
 .service-card__image img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    width: 80px;
+    height: 80px;
 }
 
 .service-card__title {
